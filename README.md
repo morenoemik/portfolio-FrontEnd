@@ -1,6 +1,6 @@
+<h1>My portfolio</h1>
 <h4 align="center">
 :construction: Proyecto en construcción :construction:
 </h4>
 # portfolio-FrontEnd
-My portfolio
-repositorio para el frontend de mi portfolio
+<p>Repositorio para el frontend de mi portfolio</p>
